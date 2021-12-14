@@ -15,4 +15,7 @@ Ngrok link problem fixed (Termux, Kali, Ubuntu, Parrot OS)
 <i>sudo apt update; sudo apt upgrade</i><br>
 <i>sudo apt install wget curl php figlet toilet</i>
 
+# Must watch <b> [how to mask ip behind vpn before starting NGROK](https://www.youtube.com/watch?v=ZqS8nZPf-6A)</b>
+
+
 
